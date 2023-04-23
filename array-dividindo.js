@@ -1,9 +1,11 @@
-// Método SLICE
+// Método SLICE()
 // Método utilizado para dividir array
 
-const nomes = ['João', 'Juliana', 'Ana', 'Caio', 'Lara', 'Marjorie', 'Guilherme', 'Aline', 'Fabiana', 'André', 'Paulo', 'Beatriz', 'Vivian', 'Isabela', 'Vinícius', 'Renan', 'Renata', 'Daisy', 'Charles'];
-
 // O método Slice aceita dois parâmetros >>> índice de começo e índice de término                 
+
+// Desafio: Dada uma lista de alunos, dividi-la em duas turmas
+
+const nomes = ['João', 'Juliana', 'Ana', 'Caio', 'Lara', 'Marjorie', 'Guilherme', 'Aline', 'Fabiana', 'André', 'Paulo', 'Beatriz', 'Vivian', 'Isabela', 'Vinícius', 'Renan', 'Renata', 'Daisy', 'Charles'];
 
 // Qual primeiro elemento, até qual elemento
 // Nomes.length/2 >>> vai até metade do array 
