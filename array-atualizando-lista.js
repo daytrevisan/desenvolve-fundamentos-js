@@ -1,8 +1,10 @@
-// Método SPLICE
+// Método SPLICE()
 // Permite inclusão e exclusão de elementos em qualquer lugar do array
 
 // Lista de chamada com os alunos: 'João', 'Ana', 'Caio', 'Lara', 'Marjorie', 'Leonardo'
 // Ana e Caio mudaram de escola e Rodrigo entrou nesta aula
+
+// Desafio: realizar as alterações de inclusão e exclusão na lista
 
 const listaDeChamada = ['João', 'Ana', 'Caio', 'Lara', 'Marjorie', 'Leonardo'];
 console.log(`Primeira lista de chamada: ${listaDeChamada}`);
