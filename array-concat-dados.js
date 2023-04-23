@@ -1,5 +1,10 @@
+// Método CONCAT()
+// Utilizado para concatenar um array com outro
+
 // Podemos concatenar dados dentro de um array
 // Pois quando o CONCAT() recebe um array como parâmetro > são os ELEMENTOS QUE SÃO CONCATENADOS (e não o array em si)
+
+// Desafio: juntar os nomes de alunos em uma única lista
 
 const arrayOriginal = ['Julia', 'Ricardo', 'Mônica', 'Kelly'];
 const arrayConcat = arrayOriginal.concat('André', 'Paulo');
