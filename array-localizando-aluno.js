@@ -1,5 +1,7 @@
+// Métodos INCLUDE() e IndexOf()
 // Com os métodos INCLUDES() e INDEXOF() é possível fazer uma varredura pelo array para localizar algum item pelo índice
-// Neste algoritmo, vamos procurar o nome do aluno e o retorno será sua respectiva nota
+
+// Desafio: Procurar o nome do aluno e retornar sua respectiva nota
 
 const listaDeNomes = ['João', 'Juliana', 'Caio', 'Ana'];
 
