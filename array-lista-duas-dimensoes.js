@@ -1,4 +1,6 @@
-// Dadas duas listas, uma de nomes de alunos e outra de suas notas correspondentes, associar os dados de ambas
+// Array de Duas Dimensões
+
+// Desafio: Dadas duas listas, uma de nomes de alunos e outra de suas notas correspondentes, associar os dados de ambas
 
 const listaDeAlunos = ['João', 'Juliana', 'Caio', 'Ana'];
 const mediaDeAlunos = [10, 7, 9, 6.5];
