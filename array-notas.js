@@ -1,4 +1,4 @@
-// ARRAY
+// ARRAY - Estrutura de Dados
 
 // O array é uma lista ordenada de valores enumerados em que cada valor é chamado de elemento, e cada elemento se localiza numa posição na lista chamada de índice
 
