@@ -1,3 +1,5 @@
+// Array vazio - analisando seu comportamento
+
 const arrayVazio = [,,,];
 
 // Ao criamos um array vazio > no terminal visualizamos que tem zero posições
