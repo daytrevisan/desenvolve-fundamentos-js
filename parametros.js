@@ -1,3 +1,5 @@
+// PARÂMETROS
+
 // Os parâmetros auxiliam no reaproveitamento de código
             // parâmetros
 function soma(num1, num2){
