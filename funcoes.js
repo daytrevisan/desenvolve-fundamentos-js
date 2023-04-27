@@ -1,3 +1,5 @@
+// FUNÇÕES NO JAVASCRIPT
+
 // let x = "";
 // console.log(x);
 // x = "exemplo";
