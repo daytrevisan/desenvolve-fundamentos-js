@@ -1,3 +1,5 @@
+// ARROW FUNCTION X FUNÇÃO 'TRADICIONAL'
+
 // Função "tradicional"
 
 function apresentar(nome){
