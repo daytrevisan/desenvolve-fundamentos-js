@@ -1,3 +1,5 @@
+// TEMPLATE STRING
+
 const nome = "Maria";
 const idade = 2023-1998;
 const cidadeDeNascimento = "Campinas";
