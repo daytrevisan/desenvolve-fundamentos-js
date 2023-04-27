@@ -1,10 +1,11 @@
 // FUNÇÃO PASSANDO PARÂMETRO
+
 // function minhaFuncao(param){
 //     // bloco de código
 // }
 
 // console.log(minhaFuncao("param"));
-
+// ---------------------------------------------------------------------------------------------------------
 
 // EXPRESSÃO DE FUNÇÃO
 // Função Anônima
@@ -28,5 +29,3 @@ const soma = function(num1, num2) { return num1 + num2 }
 
 // Principal diferença >>> HOISTING (içar ou levantar)
 // Funções e VAR são "listadas" no topo do código
-
-
