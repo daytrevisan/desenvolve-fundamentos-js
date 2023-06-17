@@ -16,9 +16,3 @@ Object.setPrototypeOf(estudante, user)
 
 console.log(estudante.nome)
 console.log(estudante.perfil)
-
-// --------------------------------------------------------------------------------------------------------
-
-// Utilizando new para criar um novo objeto:
-
-// 
