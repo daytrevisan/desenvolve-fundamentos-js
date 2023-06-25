@@ -20,3 +20,4 @@ console.log(novoUser.exibirInfos())
 
 const novoAdmin = new Admin('Rodrigo', 'r@r.com', '2000-01-01')
 console.log(novoAdmin.exibirInfos())
+
